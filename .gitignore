@@ -1,3 +1,5 @@
 # Virtual Environments
 *venv/
 *.env
+# Data bases
+*faiss_index/

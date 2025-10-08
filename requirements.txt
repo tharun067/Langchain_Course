@@ -27,3 +27,6 @@ pytube
 numexpr
 huggingface_hub
 beautifulsoup4
+fastapi
+uvicorn[standard]
+langserve[all]

@@ -30,3 +30,5 @@ beautifulsoup4
 fastapi
 uvicorn[standard]
 langserve[all]
+gradio
+langchain_nvidia_ai_endpoints

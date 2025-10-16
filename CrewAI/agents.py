@@ -5,7 +5,7 @@ from crewai import LLM
 
 load_dotenv()
 
-llm = LLM(model="gemini-2.5-flash")
+llm = LLM(model="gpt-4", temperature=0.3, max_retries=3)
 
 ### Create a senior blog content researcher
 

@@ -32,3 +32,5 @@ uvicorn[standard]
 langserve[all]
 gradio
 langchain_nvidia_ai_endpoints
+crewai
+crewai_tools

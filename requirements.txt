@@ -37,3 +37,5 @@ crewai_tools
 pinecone
 pinecone-text
 pinecone-notebooks
+neo4j
+langchain-neo4j

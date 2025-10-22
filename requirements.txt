@@ -39,3 +39,4 @@ pinecone-text
 pinecone-notebooks
 neo4j
 langchain-neo4j
+langgraph
